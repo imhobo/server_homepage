@@ -1,0 +1,149 @@
+.u-block-3ccd-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-3ccd-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-3ccd-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/babymonk1.jpg?rand=ee7f");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-1 .u-image-1 {
+  width: 98px;
+  height: 98px;
+  margin: 7px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+}
+
+ .u-section-1-2 {
+  min-height: 800px;
+  background-image: url("images/babymonk3.jpg");
+}
+
+@media (max-width: 1199px) {
+   .u-section-1-2 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1-2 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1-2 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1-2 {
+    min-height: 239px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/71da8399f1d5929e2587b1c0c296592e79c1058b8e031b495784159c7d2bcc7dd92d8341bd522e3e87804f7bf3dd4f73309a17da7580c8a32f736f_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 406px;
+}
+
+.u-section-2 .u-text-1 {
+  width: 670px;
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-social-icons-1 {
+  height: 46px;
+  min-height: 16px;
+  width: 297px;
+  min-width: 148px;
+  margin: 30px auto 60px;
+}
+
+.u-section-2 .u-icon-4 {
+  height: 100%;
+}
+
+.u-section-2 .u-icon-5 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 335px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 257px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 193px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 292px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-social-icons-1 {
+    height: 37px;
+    width: 252px;
+  }
+}
